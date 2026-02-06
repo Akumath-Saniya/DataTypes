@@ -9,6 +9,6 @@ Then find out where(At which datatype loacation) the variable has been stored us
 Learnt about 4 types of integers - decimal,octal,hexadecimal
 Type conversions of types of integers
 
-floating.py
+floating.py file
 
 Storing,printing and finding the where the floating point value is stored using type()
