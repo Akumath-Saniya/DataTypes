@@ -4,5 +4,7 @@ we are learning different DataTypes
 Integer.py file
 
 Store integer datatype in variable
-Then print the variable
+Then print the variable and
 Then find out where(At which datatype loacation) the variable has been stored using type() function
+Learnt about 4 types of integers - decimal,octal,hexadecimal
+Type conversions of types of integers
