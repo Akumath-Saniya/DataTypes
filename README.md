@@ -11,9 +11,9 @@ Type conversions of types of integers
 
 floating.py file
 
-Storing,printing and finding the where the floating point value is stored using type()
+Storing,printing and finding where the floating point value is stored using type()
 
 
 complex_dt.py file
 
-Storing,printing and finding the where the complex value is stored using type()
+Storing,printing and finding where the complex value is stored using type()
