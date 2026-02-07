@@ -1,4 +1,4 @@
-num=-8965
+num=-5625
 print(num)
 print(type(num))
 
