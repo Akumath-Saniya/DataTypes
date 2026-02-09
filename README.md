@@ -21,3 +21,10 @@ Storing,printing and finding where the complex value is stored using type()
 strings.py file
 
 storing and printing strings , even if a number is stored within quotes it is stored as a string.
+
+list.py file
+Creating multipe elements in a list(with '[]'),printing and displaying its type.
+
+tuple.py file
+Creating multipe elements in a tuple(with '()'),printing and displaying its type.
+
